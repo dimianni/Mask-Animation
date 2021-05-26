@@ -5,7 +5,7 @@
 ## To clone the repo, run the following command:
 
 ```bash
-git clone https://github.com/dimianni/Jelly-Animation.git
+git clone https://github.com/dimianni/Mask-Animation.git
 ```
 
 ## Installation
