@@ -1,6 +1,6 @@
 # Mask Animation
 
-[This](https://dimianni.github.io/Mask-Animation/) is a template of a mask animation. It is built upon my [Gulp configuration](https://github.com/dimianni/gulp_config). 
+[This](https://dimianni.github.io/Mask-Animation/) is a code snippet of a mask animation. It is built upon my [Gulp configuration](https://github.com/dimianni/gulp_config). 
 
 ## To clone the repo, run the following command:
 
